@@ -1,0 +1,62 @@
+// Örn Programlar
+1 - Quado (Android)
+2 - Visual Studio Code (Windows)
+3 - Php Storm (Windows)
+4 - Sublime Text (Windows)
+5 - Notepad++ (Windows)
+
+
+<?php
+//Bütün Kodlar Buraya
+?>
+
+<?php
+
+#Echo = Mesaj
+
+echo "Ayrz";
+
+
+// # ve // İşareti ile tek satırlık yorum satırı oluşturursunuz.
+// /* */ İşareti ile iki işaretin arasınındaki bütün yazıları kodları yorum satırı yapar.
+
+/*
+ddsa
+gfgfdg
+*/
+
+# Bir Alt Satıra Yazı Yazmak İçin
+
+echo "Ayrz"; //Yazı
+echo "<br>"; //alt satıra çeker
+echo "NEW CHANNEL DERS 1"; //Yazı
+
+// Farklı Bir Echo içine değilde yazının içine <br> eklersenizde alt satıra iner.
+
+echo "Selamun <br> Aleyküm";
+
+// Bir Değişkende Sayı Belirticeğiniz zaman "" içine alınmaz
+$numara=1;
+
+// Bir Değişkende Asla Başa Sayı Yazılmaz $1numara yerine $numara1 yazılmalıdır
+$1numara=1;
+$numara1=1;
+
+// Bir Değişkene Yazı Yazıcağınız Zaman "" içine yazılmalıdır yazı.
+$yazi="Ayrz";
+
+// Bir Değişkende / * + - . , işaretleri koyamayız. alttada örn var bunlar kullanılamaz
+$selam+="selam";
+$selam-="selam";
+$selam/="selam";
+$selam%="selam";
+$selam*="selam";
+$selam.="selam";
+$selam,="selam";
+
+// Değişkenlerde TÜRKÇE KARAKTER KULLANAMAZSSINIZ Ü , I , Ç , Ö , S Gibi
+
+
+
+
+?>
