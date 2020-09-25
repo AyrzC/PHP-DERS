@@ -1,0 +1,37 @@
+<?php
+
+//Bir Değişken'i nasıl echo'ya eklenir yani yazıyı bir değişkenle belirleme
+
+$sayi1=1;
+
+echo $sayi1;
+
+//Peki bir yazıyı nasıl değişken sayesinde yazdırırız ?
+
+$isim="Ayrz";
+
+echo $isim;
+
+// Bir Sayı Belirleyelim örn 5 sayısı buna nasıl ek olarak toplama
+
+$sayi2=5;
+
+echo $sayi2=$sayi2+5;
+
+//veya
+
+// $sayi değişkeni 5 dedik bu iki işlem sayesinde 10 işlem cevabı 10 oldu.
+
+$sayi3=$sayi3+5;
+
+echo $sayi3;
+
+// birleştirme işarı . 'dır
+echo "ahmet".$sayi3;
+// 2 DEĞİŞKENİ BİRLEŞTİRME
+
+$ad="Ahmet ";
+$soyad="DOĞRU";
+
+echo "ADIM SOYADIM: ".$ad.$soyad;
+?>
